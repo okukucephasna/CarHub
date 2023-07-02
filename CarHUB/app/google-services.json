@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671456974569",
+    "project_id": "carhub-d6c8f",
+    "storage_bucket": "carhub-d6c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671456974569:android:c64cdef49f0092fa568278",
+        "android_client_info": {
+          "package_name": "com.example.carhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671456974569-hossee8201f0ab558c8m6gmf2dn2qnb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXzx8UoWzEKgPvWoSveMBuYDw_gNTBdfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671456974569-hossee8201f0ab558c8m6gmf2dn2qnb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
